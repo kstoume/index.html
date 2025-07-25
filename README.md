@@ -15,7 +15,7 @@
   </style>
 </head>
 <body>
-  <h1>AI Awareness Project</h1>
+  <h1>AI ok Awareness Project</h1>
   <p>Website coming soon. Stay tuned!</p>
 </body>
 </html>
